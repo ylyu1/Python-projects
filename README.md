@@ -1,1 +1,1 @@
-For this project, we use pandas for data exploration and data cleaning and use matplotlib for data visualizations. 
+In this project, I leveraged pandas and matplotlib to reveal popularity of programming languages in recent years.
